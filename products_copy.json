@@ -1,0 +1,38 @@
+[
+    {
+      "id": 1,
+      "name": "Royal Canin Small Adult",
+      "price": 300,
+      "category": "perros",
+      "thumbnail": "http://rockmastercoder.com/img/productos_perro_11.png",
+      "stock": 5,
+      "code": "P1"
+    },
+    {
+      "id": 2,
+      "name": "Royal Canin Large Adult",
+      "price": 250,
+      "category": "perros",
+      "thumbnail": "http://rockmastercoder.com/img/productos_perro_2.png",
+      "stock": 10,
+      "code": "P2"
+    },
+    {
+      "id": 3,
+      "name": "Royal Canin Kitten",
+      "price": 200,
+      "category": "gatos",
+      "thumbnail": "http://rockmastercoder.com/img/productos_gato_1.png",
+      "stock": 8,
+      "code": "P3"
+    },
+    {
+      "id": 4,
+      "name": "Placas Identificación Personalizadas",
+      "price": 100,
+      "category": "accesorios",
+      "thumbnail": "http://rockmastercoder.com/img/productos_accesorios_1.png",
+      "stock": 20,
+      "code": "P4"
+    }
+  ]
